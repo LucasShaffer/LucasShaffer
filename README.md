@@ -80,9 +80,9 @@
 <h2 style="display: flex; align-items: center;">GitHub Stats <img src='https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/github.gif' width='32px' height=32px> </h2>
 
 ![](./profile-3d-contrib/profile-night-green.svg)
-![](https://github-readme-stats.vercel.app/api?username=LucasShaffer&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-stats-git-master-lucasshaffer.vercel.app/api?username=LucasShaffer&theme=dark&hide_border=false&include_all_commits=true&count_private=true&show_icons=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=LucasShaffer&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=LucasShaffer&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats-git-master-lucasshaffer.vercel.app/api/top-langs/?username=LucasShaffer&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact&exclude_repo=setup)
 
 <h2  style="display: flex; align-items: center;"> Some Programming Humor for you <img align ='center' src='https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/winkFace.gif' width = '32px' height= '32px'></h2>
 
