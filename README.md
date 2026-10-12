@@ -12,13 +12,13 @@
 
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/47a1a7b035154ce002fffc42e803b6ca8acbc4f3/gifs/git-header.svg" />
 
-- 🔭 I’m currently working on a project that allows user to practice behavioral interview questions and get instant feedback using AI.
+- 🔭 I’m currently working on a project that enables foresters to do their best work. With accounting, project management, and customer management managed in one place, foresters can focus on their work.
 
 - 🌱 I’m currently learning Artificial Intelligence and Machine Learning
 
-- 👯 I’m looking to collaborate on Job hunting
+- 👯 I’m looking for a high impact role at a collaborative company
 
-- 💬 Talk to me about AI, React, JS, TS, Open Roles.
+- 💬 Talk to me about AI, React, JS, TS, Open Roles
 
 
 <h2 style="display: flex; align-items: center;"> Connect with me <img src='https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/handShake.gif' width="50px" height=50px> </h1>
